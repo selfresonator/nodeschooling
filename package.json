@@ -7,7 +7,7 @@
   "description": "a repo of my nodeschool efforts",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha spec"
   },
   "keywords": [],
   "author": "selfresonator",
