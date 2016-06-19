@@ -1,20 +1,20 @@
-(function () {
-  var HashMap = {};
+var HashMap = function () {
+  var hashMap = {};
   var storage  = [];
   var limit = 4;
 
-  HashMap.insert = function() {
+  hashMap.insert = function() {
 
   };
 
-  HashMap.retrieve = function() {
+  hashMap.retrieve = function() {
 
   };
 
-  HashMap.remove = function() {
+  hashMap.remove = function() {
 
   };
 
   return hashMap;
 
-})();
+};
