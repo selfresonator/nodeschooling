@@ -1,0 +1,22 @@
+{
+  "name": "nodeschooling",
+  "description": "a repo of my nodeschool efforts",
+  "main": "index.js",
+  "authors": [
+    "selfresonator"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/selfresonator/nodeschooling",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}

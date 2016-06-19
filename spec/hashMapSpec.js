@@ -1,6 +1,5 @@
 describe('hashMap', function() {
   var hashMap;
-  var expect = require('chai').expect;
   // beforeEach(function() {
   //   hashMap = new HashMap();
   // });
